@@ -1,5 +1,4 @@
-;	Update all of this information to reflect your own details and the prac
-;	Author:     Dr J du Toit
+;	Author:     RavHUDZULO
 ;	Template document
 .386
 .MODEL FLAT ; Flat memory model
